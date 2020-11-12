@@ -1,0 +1,52 @@
+body{
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    background: whitesmoke;
+    font-family: 'Roboto',serif;
+}
+
+nav {
+    background: slategray;
+}
+
+.LOGO {
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+.dd {
+    color: white;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.dx {
+    color: white;
+    padding-top: 8px;
+}
+
+.dx a {
+    color: white;
+    margin-top: 15px;
+    padding-top: 20px;
+}
+
+ul .section {
+    float: right;
+}
+
+.baidang {
+    margin-top: 5px;
+    width: 80%;
+    margin-left: 30px;
+    color: turquoise;
+
+}
+
+.baidang ul {
+    border-bottom: 2px dashed brown;
+}
