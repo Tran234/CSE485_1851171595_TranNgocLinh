@@ -6,7 +6,7 @@ body{
     font-family: 'Roboto',serif;
 }
 
-.LOGO {
+.logo {
     width: 100%;
 }
 
@@ -14,18 +14,18 @@ li {
     list-style: none;
 }
 
-.dd {
+.d {
     color: white;
     margin-top: 8px;
     margin-left: 10px;
 }
 
-.dx {
+.x {
     color: white;
     padding-top: 8px;
 }
 
-.dx a {
+.x a {
     color: white;
     margin-top: 15px;
     padding-top: 20px;
